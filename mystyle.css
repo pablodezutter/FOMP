@@ -1,5 +1,46 @@
- .fa-grin-hearts{
-width:50px;
-height:50px;
+h1, h2, h3 {
+font-family: 'Quicksand', sans-serif;
+}
+
+p, table {
+  font-family: 'Open Sans', sans-serif;
+}
+
+i.fa-times{
+color: red;
+
+}
+
+
+#logo{
+width: 50px;
+height: 50px;
+
+}
+
+td{
+padding:20px !important;
+
+}
+
+#giftcard_uitleg{
+padding-top: 30px;
+padding-bottom:55px;
+
+}
+
+.orange{
+background-color: #f79d65;
+
+}
+
+
+.yellow_orange{
+background-color: #f7b267;
+
+}
+
+.dark_orange{
+background-color: #f4845f;
 
 }
