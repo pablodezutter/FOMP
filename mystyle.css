@@ -7,6 +7,12 @@ h1, h2, h3 {
 font-family: 'Quicksand', sans-serif;
 }
 
+th{
+font-family: 'Quicksand'; sans-serif;
+font-weight: 200;
+
+}
+
 p, table {
   font-family: 'Open Sans', sans-serif;
 }
