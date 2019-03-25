@@ -27,6 +27,10 @@ i.fa-dragon, i.fa-smile-wink{
 
 }
 
+td{
+  text-align: center;
+}
+
 .moviegiftcard, .moviegiftcard_rope, .moviegiftcard_uber{
 text-align: left;
 border-color: #f4845f;
@@ -41,7 +45,9 @@ width:300px;
 text-align: right;
 padding-bottom: 10px;
 margin: 10px;
-width: 100px:
+width: 80px:
+
+
 
 
   }
