@@ -46,10 +46,6 @@ width: 100px:
 
   }
 
-
-
-
-
 .logo{
 width: 50px;
 height: 50px;
@@ -92,4 +88,20 @@ background-color: #f03a47;
 .darkest_orange{
 background-color: #27059;
 
+}
+
+.go_up{
+float:right;
+
+}
+
+a.goback_links {
+text-align: right;
+color: black;
+
+}
+
+a:visited.goback_links {
+text-align:right;
+color: #f03a47;
 }
